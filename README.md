@@ -3,12 +3,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Aakarsh Gupta`
+- **CCID:** `aakarsh1`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+(https://coderanch.com/t/658593/java/delete-button-delete-checkbox)
+https://answers.laserfiche.com/questions/185604/How-to-create-an-add-and-delete-button-and-functionality--in-Laserfiche-forms
+https://developer.android.com/develop/ui/views/components/button
 
 ## Verbal Collaboration
 
